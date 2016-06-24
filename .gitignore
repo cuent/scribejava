@@ -13,3 +13,6 @@ nbproject
 
 # Binaries
 target
+
+# Mac files
+.DS_Store
